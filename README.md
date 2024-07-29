@@ -10,7 +10,7 @@ Home: www.kataxwork.com<br>
 
 This application:
 
->basic implementation of interface with Blueprint and C++  <br> 
+>basic implementation of interface with Blueprint and C++ <br> 
 >6 actors in total <br> 
 >3 pure BP, 3 C++ based <br>
 >2 maps which demonstrate: <br>
@@ -20,4 +20,4 @@ This application:
 
 <h4> This project is designed for teaching Unreal Engine by demonstration a functional prototype. <br> The project template is optimized to reduce size.  </h4>
 
- C++ and BP Interface - basic
+

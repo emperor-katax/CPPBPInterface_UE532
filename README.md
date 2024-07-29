@@ -11,7 +11,8 @@ Home: www.kataxwork.com<br>
 This application:
 
 >basic implementation of interface with Blueprint and C++ <br>
->6 actors in total
+>6 actors in total <br> 
+>3 pure BP, 3 C++ based <br>
 >2 maps which demonstare: <br>
 > - Blueprint interface communication
 > - C++ implementation of Blueprint interfaces 
